@@ -9,16 +9,16 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['923204566005'] //['92x','92x'] 2 owner
-global.packname = 'BOT'
-global.author = 'GlobalTechInfo'
-global.botname = 'GLOBAL MD'
+global.owner = ['923288330026'] //['92x','92x'] 2 owner
+global.packname = '𝐌ꝛ 𝐃-ꭙ𝚗𝗍 𝐙𝐢𝐝𝐢𝐢'
+global.author = '💳'
+global.botname = '𝐌ꝛ 𝐃-ꭙ𝚗𝗍 𝐙𝐢𝐝𝐢𝐢'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json' // Put mongodb url here if using mongodb. Format : 'mongodb+srv://...'
 global.tempatStore = 'baileys_store.json' // Put mongodb url here if using mongodb. Format : 'mongodb+srv://...'
 global.pairing_code = true
-global.number_bot = '' // If you use a panel, you can enter the number here, if you haven't taken a session. Format: '92320xx'
+global.number_bot = '923276326230' // If you use a panel, you can enter the number here, if you haven't taken a session. Format: '92320xx'
 
 global.fake = {
 	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
@@ -29,9 +29,9 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/@GlobalTechInfo',
+	yt: 'https://youtube.com/@Zidii_decent_boy',
 	gh: 'https://github.com/GlobalTechInfo',
-	gc: 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07',
+	gc: 'https://www.instagram.com/zidii_decent_boy?igsh=MXVobjVlMXBrYzcxbg==',
 	ch: '120363319098372999@newsletter',
 }
 
