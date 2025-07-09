@@ -10,9 +10,9 @@ const chalk = require('chalk');
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
 global.owner = ['923288330026'] //['92x','92x'] 2 owner
-global.packname = 'BOT'
-global.author = 'GlobalTechInfo'
-global.botname = 'GLOBAL MD'
+global.packname = '𝐌ꝛ 𝐃-ꭙ𝚗𝗍 𝐙𝐢𝐝𝐢𝐢'
+global.author = '💳'
+global.botname = '𝐌ꝛ 𝐃-ꭙ𝚗𝗍 𝐙𝐢𝐝𝐢𝐢'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'mongodb+srv://Muhammad-ZaHid:261894@muhammadzahid.ykisuxs.mongodb.net/?retryWrites=true&w=majority&appName=MuhammadZaHid' // Put mongodb url here if using mongodb. Format : 'mongodb+srv://...'
