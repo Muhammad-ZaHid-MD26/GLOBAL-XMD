@@ -9,16 +9,16 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['923204566005'] //['92x','92x'] 2 owner
+global.owner = ['923288330026'] //['92x','92x'] 2 owner
 global.packname = 'BOT'
 global.author = 'GlobalTechInfo'
 global.botname = 'GLOBAL MD'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
-global.tempatDB = 'database.json' // Put mongodb url here if using mongodb. Format : 'mongodb+srv://...'
+global.tempatDB = 'mongodb+srv://Muhammad-ZaHid:261894@muhammadzahid.ykisuxs.mongodb.net/?retryWrites=true&w=majority&appName=MuhammadZaHid' // Put mongodb url here if using mongodb. Format : 'mongodb+srv://...'
 global.tempatStore = 'baileys_store.json' // Put mongodb url here if using mongodb. Format : 'mongodb+srv://...'
 global.pairing_code = true
-global.number_bot = '' // If you use a panel, you can enter the number here, if you haven't taken a session. Format: '92320xx'
+global.number_bot = '923276326230' // If you use a panel, you can enter the number here, if you haven't taken a session. Format: '92320xx'
 
 global.fake = {
 	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
